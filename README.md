@@ -9,9 +9,11 @@ Freedom to make life choices vs maximum infection rate
 <img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/FreedomConfirmed.png" width=300, align="center">
 
 
+
 Perceptions of corruption vs maximum infection rate
 
 <img src="https://raw.githubusercontent.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/main/img/CorruptionConfirmed.png" width=300, align="center">
+
 
 
 GDP per capita vs maximum infection rate
@@ -19,29 +21,32 @@ GDP per capita vs maximum infection rate
 <img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/GDPConfirmed.png" width=300, align="center">
 
 
-Generosity vs maximum infection rate
 
+### Generosity vs maximum infection rate
 <img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/GenerosityConfirmed.png" width=300, align="center">
 
 
-Healthy life expectancy vs maximum infection rate
 
+### Healthy life expectancy vs maximum infection rate
 <img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/LifeConfirmed.png" width=300, align="center">
 
 
-Social support vs maximum infection rate
 
+### Social support vs maximum infection rate
 <img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/SocialConfirmed.png" width=300, align="center">
 
 
-Happiness vs maximum infection rate 
+
+### Happiness vs maximum infection rate 
 
 <img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/heatmapconfirmed.png" width=300, align="center">
 
 
-Happiness vs maximum recovery rate
+
+### Happiness vs maximum recovery rate
 
 <img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/heatmaprecoveries.png" width=300, align="center">
+
 
 
 Happiness vs maximum death rate
