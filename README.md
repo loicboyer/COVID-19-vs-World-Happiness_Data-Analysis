@@ -35,14 +35,14 @@ This notebook is available at: https://github.com/loicboyer/COVID-19-vs-World-Ha
 
 
 ### Happiness vs maximum infection rate 
-<img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/heatmapconfirmed.png" width=300, align="center">
+<img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/heatmapconfirmed.png" width=1500, align="center">
 
 
 
 ### Happiness vs maximum recovery rate
-<img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/heatmaprecoveries.png" width=300, align="center">
+<img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/heatmaprecoveries.png" width=1500, align="center">
 
 
 
 ### Happiness vs maximum death rate
-<img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/heatmapdeaths.png" width=300, align="center">
+<img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/heatmapdeaths.png" width=1500, align="center">
