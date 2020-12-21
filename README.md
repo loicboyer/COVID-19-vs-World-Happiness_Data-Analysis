@@ -5,32 +5,32 @@ This notebook is available at: https://github.com/loicboyer/COVID-19-vs-World-Ha
 
 
 ### Freedom to make life choices vs maximum infection rate
-<img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/FreedomConfirmed.png" width=300, align="center">
+<img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/FreedomConfirmed.png" width=600, align="center">
 
 
 
 ### Perceptions of corruption vs maximum infection rate
-<img src="https://raw.githubusercontent.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/main/img/CorruptionConfirmed.png" width=300, align="center">
+<img src="https://raw.githubusercontent.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/main/img/CorruptionConfirmed.png" width=600, align="center">
 
 
 
 ### GDP per capita vs maximum infection rate
-<img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/GDPConfirmed.png" width=300, align="center">
+<img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/GDPConfirmed.png" width=600, align="center">
 
 
 
 ### Generosity vs maximum infection rate
-<img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/GenerosityConfirmed.png" width=300, align="center">
+<img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/GenerosityConfirmed.png" width=600, align="center">
 
 
 
 ### Healthy life expectancy vs maximum infection rate
-<img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/LifeConfirmed.png" width=300, align="center">
+<img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/LifeConfirmed.png" width=600, align="center">
 
 
 
 ### Social support vs maximum infection rate
-<img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/SocialConfirmed.png" width=300, align="center">
+<img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/SocialConfirmed.png" width=600, align="center">
 
 
 
